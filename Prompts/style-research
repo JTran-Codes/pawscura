@@ -1,1 +1,79 @@
+# Style Research — Working Prompt (Paste into ChatGPT)
+
+**Goal**  
+Extract the essence of a chosen art style into short, reusable bullets I can drop into an image-generation prompt.
+
+**You are:** An expert art historian + visual analyst. Be concise, practical, and prompt-friendly.
+
+**Instruction**  
+Research the style: **[STYLE NAME]**.  
+Return **10–14** short bullets grouped under these headings:
+
+- **Composition & Framing** (2–3 bullets)
+- **Color & Lighting** (3–4 bullets)
+- **Linework / Texture / Brushwork** (2–3 bullets)
+- **Motifs & Props** (1–2 bullets)
+- **Mood & Atmosphere** (1–2 bullets)
+
+**Rules**
+- Each bullet ≤ 12 words, imperative tone (e.g., “Use bold halftone dots”).
+- Avoid vague adjectives (“beautiful”, “nice”). Prefer visual actions and materials.
+- Include at least one “Avoid” bullet if the style has common traps.
+- End with a **“Mini Checklist”** of 5 yes/no checks for fast review.
+
+**Output Format**
+Use this exact structure:
+
+### [STYLE NAME] — Style Notes (for prompting)
+**Composition & Framing**
+- ...
+- ...
+
+**Color & Lighting**
+- ...
+- ...
+
+**Linework / Texture / Brushwork**
+- ...
+- ...
+
+**Motifs & Props**
+- ...
+
+**Mood & Atmosphere**
+- ...
+
+**Avoid**
+- ...
+
+**Mini Checklist**
+- [ ] Color palette matches hallmark hues
+- [ ] Lighting pattern consistent with style
+- [ ] Linework/texture matches style
+- [ ] Composition reads in 1–2 seconds
+- [ ] No modern artifacts breaking the style
+
+---
+
+## Example (Pop Art, short)
+**Composition & Framing**
+- Graphic, centered subject with clean silhouette
+- Cropped tight for bold presence
+
+**Color & Lighting**
+- High-saturation primaries and black accents
+- Flat lighting, minimal gradients
+
+**Linework / Texture / Brushwork**
+- Thick black outlines; posterized shapes
+- Halftone dots; screen-print textures
+
+**Motifs & Props**
+- Speech bubbles, benday dots, comic panels
+
+**Mood & Atmosphere**
+- Playful, punchy, ironic
+
+**Avoid**
+- Photoreal shading and soft painterly blends
 
