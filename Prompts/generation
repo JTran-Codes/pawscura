@@ -1,1 +1,39 @@
+# Generation Prompt — General Template (Paste into ChatGPT’s Image Generator)
+
+**Use**: Combine your style notes + identity description. Replace ALL CAPS placeholders.
+
+Create a high-resolution illustration in the **[STYLE NAME]** aesthetic.
+
+### STYLE NOTES (from research; keep concise)
+- [STYLE BULLET 1]
+- [STYLE BULLET 2]
+- [STYLE BULLET 3]
+- [STYLE BULLET 4]
+- [STYLE BULLET 5]
+
+### REPLICATE THIS EXACT PHOTO (identity lock; use verbatim bullets)
+[PASTE the “Identity Description” section here]
+
+### HARD RULES
+- The pet must match markings, colors, pose, and proportions exactly.
+- Do not invent or delete patches, stripes, or accessories.
+- Preserve background elements listed under Identity Description.
+- No breed change, no facial morphing, no symmetry “fixes.”
+
+### OUTPUT INTENT
+- Print-ready, clean edges, natural shadow detail
+- Crisp read at thumbnail size (1–2 seconds)
+
+### NEGATIVE PROMPTS (identity safety)
+- No extra limbs/eyes; no mirrored markings
+- No plastic shine or CGI look
+- No gray wash; keep true blacks and warm whites if applicable
+- No painterly blur unless style calls for it
+
+### TECHNICAL EMPHASIS (hint)
+- High detail; anti-aliased edges; balanced contrast
+- Composition centered; subject dominance
+
+(If the first pass misses a detail, regenerate and prepend a short note e.g.,  
+“Emphasize: white blaze stops at nose; ears large and upright; collar tag hexagonal.”)
 
