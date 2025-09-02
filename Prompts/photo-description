@@ -1,1 +1,61 @@
+# Photo Description — Identity Lock (Paste into ChatGPT with the reference photo)
+
+**Goal**  
+Describe the client’s **exact reference photo** so the generated image preserves identity (pose, markings, proportions) without inventing features.
+
+**You are:** A forensic visual describer. Be precise, short, and verifiable from the image.
+
+**Instruction**
+Describe the attached pet photo so that an image model can **replicate this exact photo**.  
+Use terse bullets under the headings below. Only state what is clearly visible.
+
+**Headings & Guidance**
+- **Pose & Angle**: body orientation, head tilt/rotation, visible limbs/paws
+- **Framing & Crop**: how much of body is in frame; crop points
+- **Fur Colors & Markings (Exact Map)**: list patches by **shape, size, position** (forehead blaze, chest, socks, tail tip). Include “none” where absent.
+- **Face Details**: ear shape/size/position; eye shape/color; nose color; muzzle length; whiskers visibility
+- **Accessories**: collar/bandana/tag (shape, color, text if legible)
+- **Lighting & Shadow**: direction, hardness/softness, key vs fill; cast shadows
+- **Background Elements to Keep**: simple descriptors (e.g., “neutral wall,” “wood floor edge,” “sofa seam”)
+- **Color Temperature & Contrast**: warm/cool bias; high/low contrast
+- **Camera Distance & Lens Feel**: close-up/medium; mild wide/tele feel if obvious
+
+**Hard Rules**
+- Do **not** infer breed traits not visible.
+- Do **not** beautify or standardize; capture asymmetries.
+- If uncertain, write “unclear” rather than guessing.
+
+**Output Format (copy exactly)**
+### Identity Description (Use verbatim in prompts)
+**Pose & Angle**
+- ...
+
+**Framing & Crop**
+- ...
+
+**Fur Colors & Markings (Exact Map)**
+- ...
+
+**Face Details**
+- ...
+
+**Accessories**
+- ...
+
+**Lighting & Shadow**
+- ...
+
+**Background Elements to Keep**
+- ...
+
+**Color Temperature & Contrast**
+- ...
+
+**Camera Distance & Lens Feel**
+- ...
+
+**Non-Negotiables (repeat back as rules)**
+- The pet must look exactly like this photo (no new or missing markings).
+- Keep the same pose, proportions, and accessory details.
+- Do not alter ear size/shape, eye color, or nose color.
 
